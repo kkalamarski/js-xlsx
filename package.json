@@ -47,7 +47,7 @@
   ],
   "license": "Apache-2.0",
   "main": "./xlsx",
-  "name": "xlsx-style",
+  "name": "xlsx-exlabs",
   "repository": {
     "type": "git",
     "url": "git://github.com/protobi/js-xlsx.git#beta"
